@@ -5,10 +5,10 @@
   "scripts": {
     "test": "echo Success"
   },
-  "author": "Yulishka",
+  "author": "Viktoria",
   "repository": {
     "type": "git",
-    "url": "https://github.com/yulishka/workshop.git"
+    "url": "https://github.com/kit3u/prac-3.1.git"
   },
   "license": "ISC",
   "description": ""
